@@ -1,28 +1,14 @@
 <template>
   <div class="container">
-    <div>
+    <div class="text-center">
       <Logo />
-      <h1 class="title">
-        welcome:)
+      <h1 class="mt-4">
+        welcome!
       </h1>
-      <!-- <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div> -->
+      <v-divider></v-divider>
+      <h5>
+        checkout my profile! → <NuxtLink to="/profile"><v-btn>Profile</v-btn></NuxtLink> 
+      </h5>
     </div>
   </div>
 </template>
@@ -32,14 +18,14 @@ export default {}
 </script>
 
 <style>
-.container {
+/* .container {
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-}
+} */
 
 .title {
   font-family:
