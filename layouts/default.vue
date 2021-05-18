@@ -2,7 +2,7 @@
   <div>
     <Header />
     <Nuxt /> <!-- pages/index -->
-    <Footer />
+    <!-- <Footer /> -->
   </div>
 </template>
 
