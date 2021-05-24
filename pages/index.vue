@@ -5,6 +5,14 @@
       <h1 class="mt-4">
         welcome!
       </h1>
+      <p class="text-center"><a href="https://github.com/kazumawada">github</a></p>
+      <p class="text-center"><a href="https://kazumawada.hateblo.jp/">技術ブログ</a></p>
+      <p class="text-center"><a href="https://qiita.com/kazumawada">qiita</a></p>
+      <p class="text-center"><a href="https://kazumawada.hashnode.dev/">hashnode</a></p>
+      <p class="text-center"></p>
+      <p class="text-center"></p>
+      <p class="text-center"></p>
+      <p class="text-center"></p>
       <v-divider></v-divider>
       <h5>
         checkout my profile! → <NuxtLink to="/profile"><v-btn>Profile</v-btn></NuxtLink> 

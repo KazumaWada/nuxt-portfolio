@@ -10,12 +10,12 @@
       color="transparent"
     >
 
-      <v-toolbar-title><NuxtLink to="/">title</NuxtLink></v-toolbar-title>
+      <v-toolbar-title><NuxtLink to="/">kazumawada</NuxtLink></v-toolbar-title>
 
       <v-spacer></v-spacer>
-    <NuxtLink to="/profile">プロフィール</NuxtLink>
+    <NuxtLink to="/profile">プロフィール</NuxtLink>|
     <NuxtLink to="/apps">作ったもの</NuxtLink>
-    <NuxtLink to="/articles">ブログ記事</NuxtLink>
+    <!-- <NuxtLink to="/articles">ブログ記事</NuxtLink> -->
     </v-app-bar>
 
 </div>
